@@ -2,7 +2,7 @@
 
 The "RFC" (request for comments) process is intended to provide a consistent and controlled path for new features to enter the Zen C language and standard library.
 
-Many changes, including bug fixes and documentation improvements, can be implemented and reviewed via the normal GitHub pull request workflow on the main [`zenc` repository](https://github.com/zen-c-lang/zenc). 
+Many changes, including bug fixes and documentation improvements, can be implemented and reviewed via the normal GitHub pull request workflow on the main [`zenc` repository](https://github.com/zenc-lang/zenc). 
 
 However, some changes are "substantial", and we ask that these be put through a bit of a design process and produce a consensus among the Zen C core team and community.
 
